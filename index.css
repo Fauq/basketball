@@ -51,22 +51,27 @@ button {
     height: 45px; 
     border: 1px solid #9AABD8;
     border-radius: 6px;
+    font-family: 'Cursed Timer ULiL';
     
 }
 .buttons1 {
     margin-top: 26px;
     text-align: center;
+    font-family: 'Cursed Timer ULiL';
 }
 
 .buttons2 {
     margin-top: 26px;
     text-align: center;
+    font-family: 'Cursed Timer ULiL';
 }
 .button3 {
     margin: 175px 0px;
     text-align: center;
+    font-family: 'Cursed Timer ULiL';
 }
 #button3 {
     width: 170px;
     height: 50px;
+    font-family: 'Cursed Timer ULiL';
 }
